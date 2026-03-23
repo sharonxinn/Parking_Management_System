@@ -1,0 +1,60 @@
+Plate: 1111 | Type: CAR | Spot: F1-R1-S1-RESERVED | Entry: 2026-02-05T00:38:27.401396200 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-05 00:39:45
+Plate: 2222 | Type: MOTORCYCLE | Spot: F1-R2-S1-COMPACT | Entry: 2025-02-05T00:40:22.288587100 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-05 00:41:52
+Plate: 3333 | Type: CAR | Spot: F1-R4-S1-REGULAR | Entry: 2026-02-05T00:41:11.823805200 | Payment Method: Cash | PIN: 1234 
+Plate: 4444 | Type: MOTORCYCLE | Spot: F1-R2-S1-COMPACT | Entry: 2026-02-05T00:42:29.660258800 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-05 00:44:55
+Plate: 8888 | Type: CAR | Spot: F1-R2-S2-COMPACT | Entry: 2026-02-05T00:44:39.899021500 | Payment Method: Cash | PIN: 1234
+Plate: AAAA | Type: CAR | Spot: F1-R4-S3-REGULAR | Entry: 2026-01-05T11:18:50.468119200 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-05 11:20:59
+Plate: AAAA | Type: CAR | Spot: F1-R2-S3-COMPACT | Entry: 2026-02-05T11:22:54.243608200 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-11 21:39:46
+Plate: NNNN | Type: MOTORCYCLE | Spot: F1-R2-S4-COMPACT | Entry: 2026-02-05T11:23:51.949301300 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-05 11:23:56
+Plate: EEEE | Type: CAR | Spot: F1-R4-S2-REGULAR | Entry: 2026-01-05T11:44:11.623134100 | Payment Method: Card | PIN: 1234
+Plate: VIP8888 | Type: CAR | Spot: F1-R1-S4-RESERVED | Entry: 2026-02-06T03:55:34.755600900 | Payment Method: Card | PIN: 8888
+Plate: ABC4444 | Type: CAR | Spot: F1-R2-S4-COMPACT | Entry: 2026-02-10T20:27:32.598832100 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-10 20:28:24
+Plate: AAA9999 | Type: CAR | Spot: F2-R2-S1-COMPACT | Entry: 2026-02-11T00:00:07.306354900 | Payment Method: null | PIN: 1234 | Exit Time: 2026-02-11 00:28:20
+Plate: BBBB9999 | Type: CAR | Spot: F1-R4-S3-REGULAR | Entry: 2026-02-11T00:29:27.638873500 | Payment Method: Card | PIN: 0000 | Exit Time: 2026-02-11 00:30:11
+Plate: CCC9999 | Type: MOTORCYCLE | Spot: F1-R2-S4-COMPACT | Entry: 2026-02-11T00:36:13.721313800 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 00:37:44
+Plate: BBB0507 | Type: CAR | Spot: F1-R4-S3-REGULAR | Entry: 2026-02-10T21:15:00 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 00:43:35
+Plate: BBB5656 | Type: CAR | Spot: F1-R4-S4-REGULAR | Entry: 2026-02-09T10:47:25.513482300 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 01:13:39
+Plate: KAV5332 | Type: SUV | Spot: F1-R5-S3-REGULAR | Entry: 2026-02-11T00:58:30.600915100 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 00:59:29
+Plate: DDD5555 | Type: SUV | Spot: F1-R4-S4-REGULAR | Entry: 2026-02-09T02:02:55.404225 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 02:03:37
+Plate: AAAA6666 | Type: SUV | Spot: F1-R4-S5-REGULAR | Entry: 2026-02-09T02:05:32.162781300 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 02:10:28
+Plate: BBB6666 | Type: CAR | Spot: F1-R4-S5-REGULAR | Entry: 2026-02-09T02:11:25.103117 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 02:12:41
+Plate: VVV9999 | Type: SUV | Spot: F1-R4-S4-REGULAR | Entry: 2026-02-09T02:21:11.672601300 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 02:22:19
+Plate: MMM6666 | Type: CAR | Spot: F1-R4-S3-REGULAR | Entry: 2026-02-09T02:29:47.858509100 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 02:31:08
+Plate: ZZZ9999 | Type: MOTORCYCLE | Spot: F1-R2-S5-COMPACT | Entry: 2026-02-09T02:32:50.144668 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 02:34:04
+Plate: JJJ7777 | Type: CAR | Spot: F1-R4-S4-REGULAR | Entry: 2026-02-11T15:19:23.462341800 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 19:22:50
+Plate: JDT666 | Type: CAR | Spot: F1-R1-S3-RESERVED | Entry: 2026-02-10T14:24:26.986257800 | Payment Method: Card | PIN: 6666 | Exit Time: 2026-02-11 19:26:56
+Plate: MMU999 | Type: CAR | Spot: F1-R1-S1-RESERVED | Entry: 2026-02-11T12:46:58.607597300 | Payment Method: Card | PIN: 9999
+Plate: AAA3333 | Type: CAR | Spot: F1-R4-S4-REGULAR | Entry: 2026-02-11T19:55:13.809921300 | Payment Method: Cash | PIN: 1234
+Plate: 1234 | Type: CAR | Spot: F1-R4-S3-REGULAR | Entry: 2026-02-11T21:09:37.791425200 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 21:09:54
+Plate: JDT666 | Type: CAR | Spot: F1-R1-S2-RESERVED | Entry: 2026-02-11T21:22:55.249847400 | Payment Method: Card | PIN: 6666 | Exit Time: 2026-02-11 21:22:59
+Plate: JME3333 | Type: CAR | Spot: F1-R1-S3-RESERVED | Entry: 2026-02-11T21:21:10.309881 | Payment Method: Card | PIN: 3333 | Exit Time: 2026-02-11 21:36:29
+Plate: JME2222 | Type: CAR | Spot: F1-R1-S2-RESERVED | Entry: 2026-02-11T18:37:28.213389500 | Payment Method: Card | PIN: 3333 | Exit Time: 2026-02-11 21:38:06
+Plate: ZZZZ | Type: MOTORCYCLE | Spot: F1-R2-S3-COMPACT | Entry: 2026-02-11T21:40:04.725640600 | Payment Method: Cash | PIN: 1234
+Plate: JJJJ | Type: CAR | Spot: F1-R1-S4-RESERVED  | Entry: 2026-02-11T21:40:22.560122100 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 21:41:57
+Plate: HHHH | Type: CAR | Spot: F1-R1-S3-RESERVED | Entry: 2026-02-11T21:46:51.799089500 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 21:48:00
+Plate: DDDD | Type: CAR | Spot: F1-R2-S4-COMPACT | Entry: 2026-02-11T21:55:40.052833900 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-11 21:55:49
+Plate: ABC123 | Type: CAR | Spot: F1-R1-S2-RESERVED | Entry: 2026-02-11T20:59:14.475676600 | Payment Method: Card | PIN: 3333 | Exit Time: 2026-02-11 21:59:45
+Plate: TTTT | Type: HANDICAPPED | Spot: F1-R3-S3-HANDICAPPED | Entry: 2026-02-11T00:23:48.857534900 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-12 00:01:28
+Plate: TTTT | Type: CAR | Spot: F1-R4-S3-REGULAR | Entry: 2026-02-11T00:16:31.015035700 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-12 00:17:02
+Plate: YYYY | Type: CAR | Spot: F1-R4-S3-REGULAR | Entry: 2026-02-10T00:17:26.189922 | Payment Method: Cash | PIN: 1234
+Plate: MMMM | Type: HANDICAPPED | Spot: F1-R3-S2-HANDICAPPED | Entry: 2026-02-10T00:18:30.676369 | Payment Method: Cash | PIN: 1234
+Plate: MUI123 | Type: CAR | Spot: F1-R5-S3-REGULAR | Entry: 2026-02-12T22:34:16.189216400 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-12 22:34:45
+Plate: CHIN123 | Type: CAR | Spot: F1-R5-S3-REGULAR | Entry: 2026-02-10T22:35:06.215911900 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-12 22:36:35
+Plate: BBB123 | Type: CAR | Spot: F1-R1-S3-RESERVED | Entry: 2026-02-12T21:39:11.707787100 | Payment Method: Card | PIN: 3333 | Exit Time: 2026-02-12 22:39:45
+Plate: JJJ1 | Type: CAR | Spot: F1-R1-S3-RESERVED | Entry: 2026-02-12T22:40:46.122120900 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-12 22:42:08
+Plate: KING1 | Type: HANDICAPPED | Spot: F1-R3-S3-HANDICAPPED | Entry: 2026-02-12T21:42:36.673897400 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-12 22:43:08
+Plate: 1234 | Type: CAR | Spot: F1-R5-S3-REGULAR | Entry: 2026-02-12T21:52:11.650569800 | Payment Method: Card | PIN: 1234
+Plate: 5678 | Type: CAR | Spot: F1-R5-S2-REGULAR | Entry: 2026-02-12T20:54:13.347410100 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-12 22:54:49
+Plate: 7890 | Type: HANDICAPPED | Spot: F1-R3-S3-HANDICAPPED | Entry: 2026-02-12T21:55:14.163670700 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-12 22:55:47
+Plate: HHHN | Type: CAR | Spot: F1-R5-S2-REGULAR | Entry: 2026-02-10T22:56:14.745865400 | Payment Method: Card | PIN: 1234 | Exit Time: 2026-02-12 22:57:19
+Plate: ABCD | Type: CAR | Spot: F1-R5-S2-REGULAR | Entry: 2026-02-12T21:58:38.682129400 | Payment Method: Cash | PIN: 1234 | Exit Time: 2026-02-12 22:59:08
+Plate: CCC123 | Type: CAR | Spot: F1-R1-S3-RESERVED | Entry: 2026-02-12T20:59:47.594654200 | Payment Method: Card | PIN: 3333 | Exit Time: 2026-02-12 23:00:29
+Plate: CCC123 | Type: CAR | Spot: F1-R1-S2-RESERVED | Entry: 2026-02-11T23:00:56.857706300 | Payment Method: Card | PIN: 3333 | Exit Time: 2026-02-12 23:01:30
+Plate: DDD123 | Type: CAR | Spot: F1-R1-S2-RESERVED | Entry: 2026-02-10T23:02:23.342170 | Payment Method: Card | PIN: 3333 | Exit Time: 2026-02-12 23:03:31
+Plate: TEST | Type: HANDICAPPED | Spot: F1-R3-S3-HANDICAPPED | Entry: 2026-02-12T22:15:24.541493400 | Payment Method: Cash | PIN: 1234 | Handicapped: true | Exit Time: 2026-02-12 23:16:09
+Plate: HAPPY | Type: HANDICAPPED | Spot: F1-R3-S3-HANDICAPPED | Entry: 2026-02-12T23:16:35.642568900 | Payment Method: Card | PIN: 1234 | Handicapped: true | Exit Time: 2026-02-12 23:16:39
+Plate: IIII | Type: HANDICAPPED | Spot: F1-R3-S3-HANDICAPPED | Entry: 2026-02-12T22:26:10.841856100 | Payment Method: Cash | PIN: 1234 | Handicapped: true | Exit Time: 2026-02-12 23:26:37
+Plate: OOOO | Type: HANDICAPPED | Spot: F1-R3-S3-HANDICAPPED | Entry: 2026-02-10T23:27:03.644386100 | Payment Method: Card | PIN: 1234 | Handicapped: true | Exit Time: 2026-02-12 23:27:55
+Plate: JJJJ | Type: CAR | Spot: F1-R5-S4-REGULAR | Entry: 2026-02-12T21:28:16.374567300 | Payment Method: Card | PIN: 1234 | Handicapped: false | Exit Time: 2026-02-12 23:28:38
+Plate: KEE | Type: CAR | Spot: F1-R5-S4-REGULAR | Entry: 2026-02-12T21:29:16.773019300 | Payment Method: Card | PIN: 1234 | Handicapped: false | Exit Time: 2026-02-12 23:29:42
+Plate: HUA | Type: CAR | Spot: F1-R5-S2-REGULAR | Entry: 2026-02-10T23:30:03.931532700 | Payment Method: Card | PIN: 1234 | Handicapped: false

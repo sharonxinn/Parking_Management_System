@@ -1,0 +1,10 @@
+Plate: VIP1234 | Type: SUV | Payment Method: Card | PIN: 1234
+Plate: VIP8888 | Type: CAR | Payment Method: Card | PIN: 8888 
+Plate: MMU999  | Type: CAR | Payment Method: Card | PIN: 9999
+Plate: JDT666  | Type: CAR | Payment Method: Card | PIN: 6666 
+Plate: JME3333 | Type: CAR | Payment Method: Card | PIN: 3333
+Plate: JME2222 | Type: CAR | Payment Method: Card | PIN: 3333
+Plate: ABC123 | Type: CAR | Payment Method: Card | PIN: 3333
+Plate: BBB123 | Type: CAR | Payment Method: Card | PIN: 3333
+Plate: CCC123 | Type: CAR | Payment Method: Card | PIN: 3333
+Plate: DDD123 | Type: CAR | Payment Method: Card | PIN: 3333
